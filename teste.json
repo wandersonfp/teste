@@ -1,5 +1,11 @@
 [
   {
+    "key" : "LPZ",
+    "name" : "La Paz",
+    "latitude" : -16.00,
+    "longitude" : -68.00
+  },
+  {
     "key" : "US",
     "name" : "Estado Unidos",
     "latitude" : 43.00,
