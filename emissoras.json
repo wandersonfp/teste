@@ -2,13 +2,19 @@
     {
         "key": "janga",
         "name": "Tv Jangadeiro (Fortaleza - CE)",
-        "latitude": -3.71664,
-        "longitude": -38.5423
+        "latitude": -3.7,
+        "longitude": -38.5
     },
     {
         "key": "irdeb",
         "name": "IRDEB - TVE (Salvador - BA)",
-        "latitude": -12.9718,
-        "longitude": -38.5011
+        "latitude": -13.0,
+        "longitude": -38.5
+    },
+    {
+        "key": "sbt",
+        "name": "SBT Interior (Ara\u00e7atuba - SP)",
+        "latitude": -21.2,
+        "longitude": -50.4
     }
 ]
