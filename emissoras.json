@@ -1,14 +1,14 @@
 [
     {
-        "key": "JANGADEIRO",
+        "key": "janga",
         "name": "Tv Jangadeiro (Fortaleza - CE)",
-        "latitude": -3.71,
-        "longitude": -38.5
+        "latitude": -3.71664,
+        "longitude": -38.5423
     },
     {
-        "key": "IRDEB",
+        "key": "irdeb",
         "name": "IRDEB - TVE (Salvador - BA)",
-        "latitude": -12.9,
-        "longitude": -38.5
+        "latitude": -12.9718,
+        "longitude": -38.5011
     }
 ]
