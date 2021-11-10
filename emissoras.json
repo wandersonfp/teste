@@ -3,918 +3,918 @@
         "key": "JANGADEIRO",
         "name": "Tv Jangadeiro (Fortaleza - CE)",
         "latitude": -3.71664,
-        "Longitude": -38.5423
+        "longitude": -38.5423
     },
     {
         "key": "IRDEB",
         "name": "IRDEB - TVE (Salvador - BA)",
         "latitude": -12.9718,
-        "Longitude": -38.5011
+        "longitude": -38.5011
     },
     {
         "key": "SBTINTERIOR",
         "name": "SBT Interior (Ara\u00e7atuba - SP)",
         "latitude": -21.2076,
-        "Longitude": -50.4401
+        "longitude": -50.4401
     },
     {
         "key": "TVPARANAIBA",
         "name": "TV Parana\u00edba (Uberl\u00e2ndia - MG)",
         "latitude": -18.9141,
-        "Longitude": -48.2749
+        "longitude": -48.2749
     },
     {
         "key": "CMRJ",
         "name": "C\u00e2mara do Rio de Janeiro (RJ)",
         "latitude": -22.9129,
-        "Longitude": -43.2003
+        "longitude": -43.2003
     },
     {
         "key": "REDEBAHIASUDOESTE",
         "name": "Rede Bahia (Tv Sudoeste)",
         "latitude": -14.8615,
-        "Longitude": -40.8442
+        "longitude": -40.8442
     },
     {
         "key": "REDEBAHIASUBAE",
         "name": "Rede Bahia (Tv Suba\u00e9)",
         "latitude": -12.2664,
-        "Longitude": -38.9663
+        "longitude": -38.9663
     },
     {
         "key": "REDEBAHIASAOFRANCISCO",
         "name": "Rede Bahia (Tv S\u00e3o Francisco)",
         "latitude": -9.41622,
-        "Longitude": -40.5033
+        "longitude": -40.5033
     },
     {
         "key": "REDEBAHIA",
         "name": "Rede Bahia (Tv Bahia)",
         "latitude": -12.9718,
-        "Longitude": -38.5011
+        "longitude": -38.5011
     },
     {
         "key": "REDEBAHIASANTACRUZ",
         "name": "Rede Bahia (TV Santa Cruz)",
         "latitude": -14.7876,
-        "Longitude": -39.2781
+        "longitude": -39.2781
     },
     {
         "key": "REDEBAHIAOESTE",
         "name": "Rede Bahia (Tv Oeste)",
         "latitude": -12.1439,
-        "Longitude": -44.9968
+        "longitude": -44.9968
     },
     {
         "key": "REDEAMAC",
         "name": "Rede Amaz\u00f4nica ( Rio Branco - AC)",
         "latitude": -15.2483,
-        "Longitude": -58.1259
+        "longitude": -58.1259
     },
     {
         "key": "REDEAMAC",
         "name": "Rede Amaz\u00f4nica ( Rio Branco - AC)",
         "latitude": -9.97499,
-        "Longitude": -67.8243
+        "longitude": -67.8243
     },
     {
         "key": "REDEAMAP",
         "name": "Rede Amaz\u00f4nica ( Macap\u00e1- AP)",
         "latitude": 0.034934,
-        "Longitude": -51.0694
+        "longitude": -51.0694
     },
     {
         "key": "REDEAMRR",
         "name": "Rede Amaz\u00f4nica ( Boa Vista- RR)",
         "latitude": 2.82384,
-        "Longitude": -60.6753
+        "longitude": -60.6753
     },
     {
         "key": "REDEAMRR",
         "name": "Rede Amaz\u00f4nica ( Boa Vista- RR)",
         "latitude": -7.26365,
-        "Longitude": -36.2357
+        "longitude": -36.2357
     },
     {
         "key": "REDEAMRO",
         "name": "Rede Amaz\u00f4nica (Porto Velho - RO)",
         "latitude": -8.76077,
-        "Longitude": -63.8999
+        "longitude": -63.8999
     },
     {
         "key": "REDEAM",
         "name": "Rede Amaz\u00f4nica (Manaus - AM)",
         "latitude": -3.11866,
-        "Longitude": -60.0212
+        "longitude": -60.0212
     },
     {
         "key": "EBC",
         "name": "EBC - (Bras\u00edlia - S\u00e3o Paulo - Rio)",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "TVCAMARA",
         "name": "TV C\u00e2mara (Bras\u00edlia-DF)",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "AMAZONSAT",
         "name": "Amazon Sat (Manaus - AM)",
         "latitude": -3.11866,
-        "Longitude": -60.0212
+        "longitude": -60.0212
     },
     {
         "key": "SJCCRECIFE",
         "name": "Sistema Jornal do Commercio de Comunica\u00e7\u00e3o (Recife - PE)",
         "latitude": -8.04666,
-        "Longitude": -34.8771
+        "longitude": -34.8771
     },
     {
         "key": "NDTVITAJAI",
         "name": "NDTV/RIC Itaja\u00ed (SC)",
         "latitude": -26.9101,
-        "Longitude": -48.6705
+        "longitude": -48.6705
     },
     {
         "key": "NDTVBLUMENAU",
         "name": "NDTV/RIC Blumenau (Blumenau -SC)",
         "latitude": -26.9155,
-        "Longitude": -49.0709
+        "longitude": -49.0709
     },
     {
         "key": "NDTVFLORIANOPOLIS",
         "name": "NDTV / Ric Florian\u00f3polis (SC)",
         "latitude": -27.5945,
-        "Longitude": -48.5477
+        "longitude": -48.5477
     },
     {
         "key": "NDTVJOINVILLE",
         "name": "NDTV/RIC Joinville ( SC)",
         "latitude": -26.3045,
-        "Longitude": -48.8487
+        "longitude": -48.8487
     },
     {
         "key": "NDTVCHAPECO",
         "name": "NDTV/RIC Chapec\u00f3 (SC)",
         "latitude": -27.1004,
-        "Longitude": -52.6152
+        "longitude": -52.6152
     },
     {
         "key": "CIDADEFORTALEZA",
         "name": "Tv Cidade Fortaleza (CE)",
         "latitude": -3.71664,
-        "Longitude": -38.5423
+        "longitude": -38.5423
     },
     {
         "key": "RICLONDRINA",
         "name": "RIC Londrina (PR)",
         "latitude": -23.304,
-        "Longitude": -51.1691
+        "longitude": -51.1691
     },
     {
         "key": "OPOVO",
         "name": "O Povo (Fortaleza - CE)",
         "latitude": -3.71664,
-        "Longitude": -38.5423
+        "longitude": -38.5423
     },
     {
         "key": "RICCURITIBA",
         "name": "RIC Curitiba (PR)",
         "latitude": -25.4195,
-        "Longitude": -49.2646
+        "longitude": -49.2646
     },
     {
         "key": "TVMORENACAMPOGRANDE",
         "name": "TV Morena (Campo Grande - MS)",
         "latitude": -9.95542,
-        "Longitude": -36.7926
+        "longitude": -36.7926
     },
     {
         "key": "TVMORENACAMPOGRANDE",
         "name": "TV Morena (Campo Grande - MS)",
         "latitude": -20.4486,
-        "Longitude": -54.6295
+        "longitude": -54.6295
     },
     {
         "key": "TVMORENADOURADOS",
         "name": "TV Morena (Dourados - MS)",
         "latitude": -22.2231,
-        "Longitude": -54.812
+        "longitude": -54.812
     },
     {
         "key": "RECORDSANTOS",
         "name": "Record Santos (SP)",
         "latitude": -23.9535,
-        "Longitude": -46.335
+        "longitude": -46.335
     },
     {
         "key": "RECORDBAURU",
         "name": "Record Bauru (SP)",
         "latitude": -22.3246,
-        "Longitude": -49.0871
+        "longitude": -49.0871
     },
     {
         "key": "TVAPERIPE",
         "name": "Tv Aperip\u00ea (Aracaju-SE)",
         "latitude": -10.9091,
-        "Longitude": -37.0677
+        "longitude": -37.0677
     },
     {
         "key": "TVCASINOP",
         "name": "Centro America (Sinop MT)",
         "latitude": -11.8604,
-        "Longitude": -55.5091
+        "longitude": -55.5091
     },
     {
         "key": "SBTMA",
         "name": "R\u00e1dio e Tv Difusora SBT (MA)",
         "latitude": -2.53874,
-        "Longitude": -44.2825
+        "longitude": -44.2825
     },
     {
         "key": "RICTOLEDO",
         "name": "RIC Toledo (PR)",
         "latitude": -25.5427,
-        "Longitude": -54.5827
+        "longitude": -54.5827
     },
     {
         "key": "RICMAISPARANA",
         "name": "RIC Mais Paran\u00e1",
         "latitude": -25.4195,
-        "Longitude": -49.2646
+        "longitude": -49.2646
     },
     {
         "key": "RICFOZ",
         "name": "RIC Foz do Igua\u00e7u (PR)",
         "latitude": -25.5427,
-        "Longitude": -54.5827
+        "longitude": -54.5827
     },
     {
         "key": "RICMARINGA",
         "name": "RIC (Maring\u00e1 - PR)",
         "latitude": -23.4205,
-        "Longitude": -51.9333
+        "longitude": -51.9333
     },
     {
         "key": "PROPROD",
         "name": "Pro Produ\u00e7\u00f5es ",
         "latitude": -3.71664,
-        "Longitude": -38.5423
+        "longitude": -38.5423
     },
     {
         "key": "TVMARINGA",
         "name": "TV Maring\u00e1 (Maring\u00e1 - PR)",
         "latitude": -23.4205,
-        "Longitude": -51.9333
+        "longitude": -51.9333
     },
     {
         "key": "TVCACUIABA",
         "name": "TV Centro Am\u00e9rica (Cuiab\u00e1 - MT)",
         "latitude": -15.601,
-        "Longitude": -56.0974
+        "longitude": -56.0974
     },
     {
         "key": "TVCATANGARA",
         "name": "Centro Am\u00e9rica (Tangar\u00e1 MT)",
         "latitude": -6.19649,
-        "Longitude": -35.7989
+        "longitude": -35.7989
     },
     {
         "key": "TVCATANGARA",
         "name": "Centro Am\u00e9rica (Tangar\u00e1 MT)",
         "latitude": -27.0996,
-        "Longitude": -51.2473
+        "longitude": -51.2473
     },
     {
         "key": "TVCASORRISO",
         "name": "Centro Am\u00e9rica (Sorriso - MT)",
         "latitude": -12.5425,
-        "Longitude": -55.7211
+        "longitude": -55.7211
     },
     {
         "key": "TVCARONDONOPOLIS",
         "name": "Centro Am\u00e9rica (Rondon\u00f3polis - MT)",
         "latitude": -16.4673,
-        "Longitude": -54.6372
+        "longitude": -54.6372
     },
     {
         "key": "TVUNISINOS",
         "name": "Tv Unisinos (S\u00e3o Leopoldo- RS)",
         "latitude": -29.7545,
-        "Longitude": -51.1498
+        "longitude": -51.1498
     },
     {
         "key": "TVCIDADEVERDEMT",
         "name": "TV Cidade Verde (Mato Grosso - MT)",
         "latitude": -6.54018,
-        "Longitude": -37.7279
+        "longitude": -37.7279
     },
     {
         "key": "TVCANCAONOVA",
         "name": "Tv Can\u00e7\u00e3o Nova (Cachoeira Paulista - SP)",
         "latitude": -22.6665,
-        "Longitude": -45.0154
+        "longitude": -45.0154
     },
     {
         "key": "RECORDRIBEIRAO",
         "name": "Record Ribeir\u00e3o (SP)",
         "latitude": -21.1699,
-        "Longitude": -47.8099
+        "longitude": -47.8099
     },
     {
         "key": "TVCORREIO",
         "name": "TV Correio (Para\u00edba - PB)",
         "latitude": -7.11509,
-        "Longitude": -34.8641
+        "longitude": -34.8641
     },
     {
         "key": "RECORDFRANCA",
         "name": "Record Franca (SP)",
         "latitude": -20.5352,
-        "Longitude": -47.4039
+        "longitude": -47.4039
     },
     {
         "key": "VERDESMARES",
         "name": "Sistema Verdes Mares ( Fortaleza - CE)",
         "latitude": -3.71664,
-        "Longitude": -38.5423
+        "longitude": -38.5423
     },
     {
         "key": "CMJF",
         "name": "C\u00e2mara Municipal de Juiz de Fora (MG)",
         "latitude": -21.7595,
-        "Longitude": -43.3398
+        "longitude": -43.3398
     },
     {
         "key": "ALMG",
         "name": "ALMG (Belo Horizonte - MG)",
         "latitude": -19.9102,
-        "Longitude": -43.9266
+        "longitude": -43.9266
     },
     {
         "key": "JOVEMPAN",
         "name": "Jovem Pan (S\u00e3o Paulo - SP)",
         "latitude": -23.5329,
-        "Longitude": -46.6395
+        "longitude": -46.6395
     },
     {
         "key": "INTERTVCABUGI",
         "name": "Inter TV Cabugi (Natal - RN)",
         "latitude": -5.79357,
-        "Longitude": -35.1986
+        "longitude": -35.1986
     },
     {
         "key": "TVT",
         "name": "Rede TVT (S\u00e3o Bernardo do Campo - SP)",
         "latitude": -23.6914,
-        "Longitude": -46.5646
+        "longitude": -46.5646
     },
     {
         "key": "TVBARRIGAVERDE",
         "name": "Tv Barriga Verde (Florian\u00f3polis - SC)",
         "latitude": -27.5945,
-        "Longitude": -48.5477
+        "longitude": -48.5477
     },
     {
         "key": "INTERTVVALES",
         "name": "InterTv dos Vales (Governador Valadares - MG)",
         "latitude": -18.8545,
-        "Longitude": -41.9555
+        "longitude": -41.9555
     },
     {
         "key": "INTERTVMONTESCLAROS",
         "name": "Inter TV Grande Minas (Montes Claros - MG)",
         "latitude": -16.7282,
-        "Longitude": -43.8578
+        "longitude": -43.8578
     },
     {
         "key": "I9",
         "name": "I9 Record News (Amazonas - MA)",
         "latitude": -3.11866,
-        "Longitude": -60.0212
+        "longitude": -60.0212
     },
     {
         "key": "AFIPE",
         "name": "AFIPE (Goi\u00e2nia - GO)",
         "latitude": -16.6864,
-        "Longitude": -49.2643
+        "longitude": -49.2643
     },
     {
         "key": "SBTMS",
         "name": "SBT MS ( Campo Grande- MT)",
         "latitude": -9.95542,
-        "Longitude": -36.7926
+        "longitude": -36.7926
     },
     {
         "key": "SBTMS",
         "name": "SBT MS ( Campo Grande- MT)",
         "latitude": -20.4486,
-        "Longitude": -54.6295
+        "longitude": -54.6295
     },
     {
         "key": "RBTV",
         "name": "RBTV (SP)",
         "latitude": -23.5329,
-        "Longitude": -46.6395
+        "longitude": -46.6395
     },
     {
         "key": "RADIOITATIAIA",
         "name": "R\u00e1dio Itatiaia (Belo Horizonte - MG)",
         "latitude": -19.9102,
-        "Longitude": -43.9266
+        "longitude": -43.9266
     },
     {
         "key": "SIVTC",
         "name": "SIC TV (Porto Velho - RO)",
         "latitude": -8.76077,
-        "Longitude": -63.8999
+        "longitude": -63.8999
     },
     {
         "key": "MIRANTEIMPERATRIZ",
         "name": "Tv Mirante Imperatriz (MA)",
         "latitude": -5.51847,
-        "Longitude": -47.4777
+        "longitude": -47.4777
     },
     {
         "key": "MIRANTESAOLUIS",
         "name": "TV Mirante S\u00e3o Lu\u00eds (MA)",
         "latitude": -2.53874,
-        "Longitude": -44.2825
+        "longitude": -44.2825
     },
     {
         "key": "TVBORBOREMA",
         "name": "TV Borborema (Campina Grande - PB)",
         "latitude": -7.22196,
-        "Longitude": -35.8731
+        "longitude": -35.8731
     },
     {
         "key": "TVMANAIRA",
         "name": "TV Mana\u00edra (Jo\u00e3o Pessoa - PB)",
         "latitude": -7.11509,
-        "Longitude": -34.8641
+        "longitude": -34.8641
     },
     {
         "key": "TVCLUBERECIFE",
         "name": "TV Clube (Recife -PE)",
         "latitude": -8.04666,
-        "Longitude": -34.8771
+        "longitude": -34.8771
     },
     {
         "key": "SBTFLORIANOPOLIS",
         "name": "SBT Florian\u00f3polis (SC)",
         "latitude": -27.5945,
-        "Longitude": -48.5477
+        "longitude": -48.5477
     },
     {
         "key": "TVTAMBAU",
         "name": "Tv Tamba\u00fa (Jo\u00e3o Pessoa - PB)",
         "latitude": -7.11509,
-        "Longitude": -34.8641
+        "longitude": -34.8641
     },
     {
         "key": "CHACOMNOZES",
         "name": "Ch\u00e1 com Nozes (Bras\u00edlia - DF)",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "TVGUARA",
         "name": "TV Guar\u00e1 (S\u00e3o Lu\u00eds - MA)",
         "latitude": -2.53874,
-        "Longitude": -44.2825
+        "longitude": -44.2825
     },
     {
         "key": "TVVITORIOSA",
         "name": "Tv Vitoriosa (Uberl\u00e2ndia - MG)",
         "latitude": -18.9141,
-        "Longitude": -48.2749
+        "longitude": -48.2749
     },
     {
         "key": "RECORDGO",
         "name": "Record Goi\u00e1s (GO)",
         "latitude": -16.6864,
-        "Longitude": -49.2643
+        "longitude": -49.2643
     },
     {
         "key": "SJCCCARUARU",
         "name": "Sistema Jornal do Commercio de Caruaru -Tv Jornal Interior (Caruaru - PE)",
         "latitude": -8.28455,
-        "Longitude": -35.9699
+        "longitude": -35.9699
     },
     {
         "key": "TVCLARET",
         "name": "TV Claret ( Rio Claro - SP)",
         "latitude": -22.72,
-        "Longitude": -44.1419
+        "longitude": -44.1419
     },
     {
         "key": "TVCLARET",
         "name": "TV Claret ( Rio Claro - SP)",
         "latitude": -22.3984,
-        "Longitude": -47.5546
+        "longitude": -47.5546
     },
     {
         "key": "VTV",
         "name": "VTV SBT (Santos - SP)",
         "latitude": -23.9535,
-        "Longitude": -46.335
+        "longitude": -46.335
     },
     {
         "key": "TVATALAIA",
         "name": "TV Atalaia (Aracaju-SE)",
         "latitude": -10.9091,
-        "Longitude": -37.0677
+        "longitude": -37.0677
     },
     {
         "key": "SBTCIDADEVERDE",
         "name": "SBT Cidade Verde (Teresina - PI)",
         "latitude": -5.09194,
-        "Longitude": -42.8034
+        "longitude": -42.8034
     },
     {
         "key": "SERRADOURADA",
         "name": "TV Serra Dourada (Goi\u00e2nia - GO)",
         "latitude": -16.6864,
-        "Longitude": -49.2643
+        "longitude": -49.2643
     },
     {
         "key": "TVBRASILIA",
         "name": "TV Bras\u00edlia",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "RADIOCBN",
         "name": "R\u00e1dio CBN (Campo Grande - MS)",
         "latitude": -9.95542,
-        "Longitude": -36.7926
+        "longitude": -36.7926
     },
     {
         "key": "RADIOCBN",
         "name": "R\u00e1dio CBN (Campo Grande - MS)",
         "latitude": -20.4486,
-        "Longitude": -54.6295
+        "longitude": -54.6295
     },
     {
         "key": "TVCONCORDIA",
         "name": "TV Conc\u00f3rdia e R\u00e1dio CBN  ( Grupo RCN Tr\u00eas Lagoas - MS)",
         "latitude": -20.7849,
-        "Longitude": -51.7007
+        "longitude": -51.7007
     },
     {
         "key": "REDEPAMPA",
         "name": "Rede Pampa (Porto Alegre - RS)",
         "latitude": -30.0318,
-        "Longitude": -51.2065
+        "longitude": -51.2065
     },
     {
         "key": "RECORDCAMPOS",
         "name": "Record (Campos - RJ)",
         "latitude": -21.7622,
-        "Longitude": -41.3181
+        "longitude": -41.3181
     },
     {
         "key": "RBATV",
         "name": "RBATV Bandeirantes (Bel\u00e9m - PA)",
         "latitude": -1.4554,
-        "Longitude": -48.4898
+        "longitude": -48.4898
     },
     {
         "key": "RBATV",
         "name": "RBATV Bandeirantes (Bel\u00e9m - PA)",
         "latitude": -6.74261,
-        "Longitude": -35.5166
+        "longitude": -35.5166
     },
     {
         "key": "RBATV",
         "name": "RBATV Bandeirantes (Bel\u00e9m - PA)",
         "latitude": -9.57047,
-        "Longitude": -36.4904
+        "longitude": -36.4904
     },
     {
         "key": "CNT",
         "name": "CNT (Curitiba / Salvador / Americanas)",
         "latitude": -25.4195,
-        "Longitude": -49.2646
+        "longitude": -49.2646
     },
     {
         "key": "CANALDOBOI",
         "name": "Canal do Boi (Campo Grande - MS)",
         "latitude": -9.95542,
-        "Longitude": -36.7926
+        "longitude": -36.7926
     },
     {
         "key": "CANALDOBOI",
         "name": "Canal do Boi (Campo Grande - MS)",
         "latitude": -20.4486,
-        "Longitude": -54.6295
+        "longitude": -54.6295
     },
     {
         "key": "BANDGO",
         "name": "BAND Goi\u00e2nia (GO)",
         "latitude": -16.6864,
-        "Longitude": -49.2643
+        "longitude": -49.2643
     },
     {
         "key": "GAZETAMT",
         "name": "Grupo gazeta de Comunica\u00e7\u00e3o ( Cuiab\u00e1 - MT)",
         "latitude": -15.601,
-        "Longitude": -56.0974
+        "longitude": -56.0974
     },
     {
         "key": "BANDBRASILIA",
         "name": "BAND (Bras\u00edlia-DF)",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "RECORDMS",
         "name": "TV MS ( Campo Grande - MS) RECORD MS",
         "latitude": -9.95542,
-        "Longitude": -36.7926
+        "longitude": -36.7926
     },
     {
         "key": "RECORDMS",
         "name": "TV MS ( Campo Grande - MS) RECORD MS",
         "latitude": -20.4486,
-        "Longitude": -54.6295
+        "longitude": -54.6295
     },
     {
         "key": "TVGUANANDI",
         "name": "Tv Guanandi/ Tv Interativa ( Campo Grande - MS)",
         "latitude": -9.95542,
-        "Longitude": -36.7926
+        "longitude": -36.7926
     },
     {
         "key": "TVGUANANDI",
         "name": "Tv Guanandi/ Tv Interativa ( Campo Grande - MS)",
         "latitude": -20.4486,
-        "Longitude": -54.6295
+        "longitude": -54.6295
     },
     {
         "key": "TVRONDON",
         "name": "TV Rondon (Cuiab\u00e1 - MT)",
         "latitude": -15.601,
-        "Longitude": -56.0974
+        "longitude": -56.0974
     },
     {
         "key": "STF",
         "name": "STF (Bras\u00edlia - DF)",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "ESPMRS",
         "name": "ESPM- Escola Superior de Propaganda e Marketing (Porto Alegre- RS)",
         "latitude": -30.0318,
-        "Longitude": -51.2065
+        "longitude": -51.2065
     },
     {
         "key": "TVICARAI",
         "name": "TV Sinal / Icara\u00ed (Curitiba - PR)",
         "latitude": -25.4195,
-        "Longitude": -49.2646
+        "longitude": -49.2646
     },
     {
         "key": "TVTAROBALONDRINA",
         "name": "TV Tarob\u00e1 (Londrina - PR)",
         "latitude": -23.304,
-        "Longitude": -51.1691
+        "longitude": -51.1691
     },
     {
         "key": "CBNBELEM",
         "name": "CBN (Bel\u00e9m - PA)",
         "latitude": -1.4554,
-        "Longitude": -48.4898
+        "longitude": -48.4898
     },
     {
         "key": "CBNBELEM",
         "name": "CBN (Bel\u00e9m - PA)",
         "latitude": -6.74261,
-        "Longitude": -35.5166
+        "longitude": -35.5166
     },
     {
         "key": "CBNBELEM",
         "name": "CBN (Bel\u00e9m - PA)",
         "latitude": -9.57047,
-        "Longitude": -36.4904
+        "longitude": -36.4904
     },
     {
         "key": "FUNTELPA",
         "name": "FUNTELPA (TV Cultura Bel\u00e9m-PA)",
         "latitude": -1.4554,
-        "Longitude": -48.4898
+        "longitude": -48.4898
     },
     {
         "key": "FUNTELPA",
         "name": "FUNTELPA (TV Cultura Bel\u00e9m-PA)",
         "latitude": -6.74261,
-        "Longitude": -35.5166
+        "longitude": -35.5166
     },
     {
         "key": "FUNTELPA",
         "name": "FUNTELPA (TV Cultura Bel\u00e9m-PA)",
         "latitude": -9.57047,
-        "Longitude": -36.4904
+        "longitude": -36.4904
     },
     {
         "key": "REDEFAMILIALIMEIRA",
         "name": "Rede Fam\u00edlia (Limeira - SP)",
         "latitude": -22.566,
-        "Longitude": -47.397
+        "longitude": -47.397
     },
     {
         "key": "ANTENA10",
         "name": "Antena 10 (Teresina - PI)",
         "latitude": -5.09194,
-        "Longitude": -42.8034
+        "longitude": -42.8034
     },
     {
         "key": "RADIOSOCIEDADEBAHIA",
         "name": "Radio Sociedade Bahia (Salvador - BA)",
         "latitude": -12.9718,
-        "Longitude": -38.5011
+        "longitude": -38.5011
     },
     {
         "key": "TVITAPOAN",
         "name": "Tv Itapoan ( Salvador - BA)",
         "latitude": -12.9718,
-        "Longitude": -38.5011
+        "longitude": -38.5011
     },
     {
         "key": "TVSANTACRUZ",
         "name": "TV Santa Cruz (Itabuna - BA)",
         "latitude": -14.7876,
-        "Longitude": -39.2781
+        "longitude": -39.2781
     },
     {
         "key": "RECORDCABRALIA",
         "name": "Record Cabr\u00e1lia (Itabuna - BA)",
         "latitude": -14.7876,
-        "Longitude": -39.2781
+        "longitude": -39.2781
     },
     {
         "key": "ESPMRJ",
         "name": "ESPM- Escola Superior de Propaganda e Marketing (Rio de Janeiro - RJ)",
         "latitude": -22.9129,
-        "Longitude": -43.2003
+        "longitude": -43.2003
     },
     {
         "key": "NTV",
         "name": "NTV (Patos de Minas - MG)",
         "latitude": -18.5699,
-        "Longitude": -46.5013
+        "longitude": -46.5013
     },
     {
         "key": "REDEFAMILIACAMPINAS",
         "name": "Rede Fam\u00edlia (Campinas - SP)",
         "latitude": -22.9053,
-        "Longitude": -47.0659
+        "longitude": -47.0659
     },
     {
         "key": "REDEAMITACOATIRA",
         "name": "Rede Amaz\u00f4nica ( Itacoatiara - AM) ",
         "latitude": -3.13861,
-        "Longitude": -58.4449
+        "longitude": -58.4449
     },
     {
         "key": "REDEAMPARINTINS",
         "name": "Rede Amaz\u00f4nica ( Parintins - AM) ",
         "latitude": -2.63741,
-        "Longitude": -56.729
+        "longitude": -56.729
     },
     {
         "key": "REDEAMCRUZEIRO",
         "name": "Rede Amaz\u00f4nica (Cruzeiro do Sul - AC) ",
         "latitude": -22.9624,
-        "Longitude": -52.1622
+        "longitude": -52.1622
     },
     {
         "key": "REDEAMCRUZEIRO",
         "name": "Rede Amaz\u00f4nica (Cruzeiro do Sul - AC) ",
         "latitude": -29.5148,
-        "Longitude": -51.9928
+        "longitude": -51.9928
     },
     {
         "key": "REDEAMCURZEIRO",
         "name": "Rede Amaz\u00f4nica (Cruzeiro do Sul - AC) ",
         "latitude": -7.62762,
-        "Longitude": -72.6756
+        "longitude": -72.6756
     },
     {
         "key": "REDEAMARIQUEMES",
         "name": "Rede Amaz\u00f4nica ( Ariquemes - RO) ",
         "latitude": -9.90571,
-        "Longitude": -63.0325
+        "longitude": -63.0325
     },
     {
         "key": "REDEAMJI",
         "name": "Rede Amaz\u00f4nica ( Ji-Paran\u00e1 - RO) ",
         "latitude": -10.8777,
-        "Longitude": -61.9322
+        "longitude": -61.9322
     },
     {
         "key": "REDEAMCACOAL",
         "name": "Rede Amaz\u00f4nica ( Cacoal - RO) ",
         "latitude": -11.4343,
-        "Longitude": -61.4562
+        "longitude": -61.4562
     },
     {
         "key": "REDEAMVILHENA",
         "name": "Rede Amaz\u00f4nica ( Vilhena - RO) ",
         "latitude": -12.7502,
-        "Longitude": -60.1488
+        "longitude": -60.1488
     },
     {
         "key": "TERCALIVRE",
         "name": "Ter\u00e7a Livre (Bras\u00edlia - DF)",
         "latitude": -15.7795,
-        "Longitude": -47.9297
+        "longitude": -47.9297
     },
     {
         "key": "TVOOTIMISTA",
         "name": "TV O Otimista ",
         "latitude": -3.71664,
-        "Longitude": -38.5423
+        "longitude": -38.5423
     },
     {
         "key": "BANDNEWS",
         "name": "Band News (Goi\u00e2nia-GO)",
         "latitude": -16.5098,
-        "Longitude": -49.0234
+        "longitude": -49.0234
     },
     {
         "key": "GAZETAAL",
         "name": "TV Gazeta de Alagoas",
         "latitude": -9.66599,
-        "Longitude": -35.735
+        "longitude": -35.735
     },
     {
         "key": "TVPLAN",
         "name": "TV Plan (Po\u00e7os de Caldas - MG)",
         "latitude": -21.78,
-        "Longitude": -46.5692
+        "longitude": -46.5692
     },
     {
         "key": "RITTV",
         "name": "RIT TV ( S\u00e3o Paulo)",
         "latitude": -23.5329,
-        "Longitude": -46.6395
+        "longitude": -46.6395
     },
     {
         "key": "TVMINASBRASIL",
         "name": "TV Minas Brasil (MG)",
         "latitude": -17.2252,
-        "Longitude": -46.8711
+        "longitude": -46.8711
     },
     {
         "key": "TVDIARIO",
         "name": "TV Di\u00e1rio (Manaus-AM)",
         "latitude": -3.11866,
-        "Longitude": -60.0212
+        "longitude": -60.0212
     },
     {
         "key": "BMEC",
         "name": "BM&C News",
         "latitude": -23.5329,
-        "Longitude": -46.6395
+        "longitude": -46.6395
     },
     {
         "key": "PRIMETALK",
         "name": "PrimeTalk (S\u00e3o Paulo-SP)",
         "latitude": -23.5329,
-        "Longitude": -46.6395
+        "longitude": -46.6395
     },
     {
         "key": "TVAPARECIDA",
         "name": "TV Aparecida (Aparecida-SP)",
         "latitude": -6.78466,
-        "Longitude": -38.0803
+        "longitude": -38.0803
     },
     {
         "key": "TVAPARECIDA",
         "name": "TV Aparecida (Aparecida-SP)",
         "latitude": -22.8495,
-        "Longitude": -45.2325
+        "longitude": -45.2325
     },
     {
         "key": "TVTHATHI",
         "name": "TV Thathi (S\u00e3o Jos\u00e9 dos Campos)",
         "latitude": -23.1896,
-        "Longitude": -45.8841
+        "longitude": -45.8841
     },
     {
         "key": "TVEVANGELIZAR",
         "name": "TV Evangelizar (Curitiba-PR)",
         "latitude": -25.4195,
-        "Longitude": -49.2646
+        "longitude": -49.2646
     },
     {
         "key": "RADIOMETROPOLITANA",
         "name": "Metropolitana FM (S\u00e3o Paulo-SP)",
         "latitude": -23.5329,
-        "Longitude": -46.6395
+        "longitude": -46.6395
     }
 ]
