@@ -802,5 +802,11 @@
         "name": "Metropolitana FM (São Paulo-SP)",
         "latitude": -23.5,
         "longitude": -46.6
+    },
+    {
+        "key": "ATB",
+        "name": "ATB (Bolívia)",
+        "latitude": -16.5,
+        "longitude": -68.1
     }
 ]
