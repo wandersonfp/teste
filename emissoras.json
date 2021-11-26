@@ -809,4 +809,10 @@
         "latitude": -16.5,
         "longitude": -68.1
     }
+    {
+        "key": "OCEANO",
+        "name": "OCEANO",
+        "latitude": -33,
+        "longitude": -28
+    }
 ]
